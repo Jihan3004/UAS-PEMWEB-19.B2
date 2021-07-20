@@ -6,6 +6,8 @@
 
 # NIM : 311910094
 
+# LINK DEMO : https://jihan.techcelup.com/
+
 INDEX
 
 ![image](https://user-images.githubusercontent.com/81526294/126328959-94f83e7f-b16a-4d4e-af17-cb7b67ef9c06.png)
